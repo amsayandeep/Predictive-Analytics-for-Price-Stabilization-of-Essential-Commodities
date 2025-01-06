@@ -11,6 +11,8 @@ To create a system that analyzes historical price trends, seasonal patterns, cro
 ## Team Members : 
 🌱 Sayandeep Ghosh, Karthik Samula
 
+<img width=30% align="right" src="https://shore.gitam.edu/static/img/shore25logo.png">
+
 ## Models used: 
 🌱 Arima Model, Random Forest Model
 
