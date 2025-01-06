@@ -2,6 +2,8 @@
 <img width="400%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
 <h1 align="center">Predictive Analytics for Price Stabilization of Essential Commodities</h1>
 <p align="left"> <a href="https://twitter.com/sayandeep_x" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeep_x?logo=twitter&style=for-the-badge" alt="sayandeep_x" /></a> </p>
+<p align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs0aG93c2RlYjlqM3d0MHZsbHozdXcxbHB3aWlxN3JqMzV0bXMyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PP3IoEjYXLz70bFVIN/giphy.gif" height="80" width="70" href="https://shore.gitam.edu/"> ☞--> <a href="https://shore.gitam.edu/" target="blank">Shore Fest Official Website [Gitam University]</a> </p>
+
 ## Description: 
 To develop an Al/ML-based platform that forecasts the prices of essential food commodities, such as pulses and onions, using historical data, seasonal trends, and real-time market inputs. The platform will employ advanced machine learning models, like ARIMA or LSTM, to predict price fluctuations and recommend strategic market interventions for stabilizing prices.
 
@@ -10,8 +12,6 @@ To create a system that analyzes historical price trends, seasonal patterns, cro
 <img width="400%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
 ## Team Members : 
 🌱 Sayandeep Ghosh, Karthik Samula
-
-<img width=30% align="right" src="https://shore.gitam.edu/static/img/shore25logo.png">
 
 ## Models used: 
 🌱 Arima Model, Random Forest Model
