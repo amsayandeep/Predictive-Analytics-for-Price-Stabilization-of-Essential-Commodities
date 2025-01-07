@@ -14,6 +14,8 @@ To develop an Al/ML-based platform that forecasts the prices of essential food c
        alt="Clickable Image" height="150" width="150">
 </a>
 
+<img align="right" alt="visual" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdqcnFiN2RtZTlvZmI0ZXZmeHU5aDlpNGY2YmIzdXBsYjUyNG5iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif">
+
 ## Hypotheses:
 ### Seasonal Variation Hypothesis:
 1. The prices of essential commodities fluctuate due to predictable seasonal patterns (e.g., increased demand during festivals or supply disruptions during monsoons).
