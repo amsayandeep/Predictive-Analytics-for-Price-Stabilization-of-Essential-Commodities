@@ -2,7 +2,10 @@
 <h1 align="center">Predictive Analytics for Price Stabilization of Essential Commodities</h1>
 
 
-<img align="right" alt="visual" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdqcnFiN2RtZTlvZmI0ZXZmeHU5aDlpNGY2YmIzdXBsYjUyNG5iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif">
+<img align="right" alt="visual" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdqcnFiN2RtZTlvZmI0ZXZmeHU5aDlpNGY2YmIzdXBsYjUyNG5iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif">
+
+## Description: 
+To develop an Al/ML-based platform that forecasts the prices of essential food commodities, such as pulses and onions, using historical data, seasonal trends, and real-time market inputs. The platform will employ advanced machine learning models, like ARIMA or LSTM, to predict price fluctuations and recommend strategic market interventions for stabilizing prices.
 
 Click on the below 'tap' icon to access the whole google collab code...
 
@@ -10,10 +13,6 @@ Click on the below 'tap' icon to access the whole google collab code...
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs0aG93c2RlYjlqM3d0MHZsbHozdXcxbHB3aWlxN3JqMzV0bXMyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PP3IoEjYXLz70bFVIN/giphy.gif" 
        alt="Clickable Image" height="150" width="150">
 </a>
-
-## Description: 
-To develop an Al/ML-based platform that forecasts the prices of essential food commodities, such as pulses and onions, using historical data, seasonal trends, and real-time market inputs. The platform will employ advanced machine learning models, like ARIMA or LSTM, to predict price fluctuations and recommend strategic market interventions for stabilizing prices.
-
 
 ## Hypotheses:
 ### Seasonal Variation Hypothesis:
