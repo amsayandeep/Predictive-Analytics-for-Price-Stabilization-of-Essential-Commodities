@@ -2,7 +2,7 @@
 <h1 align="center">Predictive Analytics for Price Stabilization of Essential Commodities</h1>
 
 
-<img align="right" alt="visual" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdqcnFiN2RtZTlvZmI0ZXZmeHU5aDlpNGY2YmIzdXBsYjUyNG5iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif">
+<img align="right" alt="visual" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdqcnFiN2RtZTlvZmI0ZXZmeHU5aDlpNGY2YmIzdXBsYjUyNG5iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif">
 
 Click on the below 'tap' icon to access the whole google collab code...
 
