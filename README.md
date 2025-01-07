@@ -6,7 +6,7 @@
 Click on the below tap icon to access the whole google collab code...
 
 <p align="left">  <a href="https://colab.research.google.com/github/amsayandeep/Predictive-Analytics-for-Price-Stabilization-of-Essential-Commodities/blob/main/SHORE_FEST_HACKATHON(ML).ipynb" target="blank">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs0aG93c2RlYjlqM3d0MHZsbHozdXcxbHB3aWlxN3JqMzV0bXMyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PP3IoEjYXLz70bFVIN/giphy.gif" height="80" width="70" href="https://shore.gitam.edu/" alt="Clickable Image"></p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs0aG93c2RlYjlqM3d0MHZsbHozdXcxbHB3aWlxN3JqMzV0bXMyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PP3IoEjYXLz70bFVIN/giphy.gif" height="100" width="100" href="https://shore.gitam.edu/" alt="Clickable Image"></p>
 
 ## Description: 
 To develop an Al/ML-based platform that forecasts the prices of essential food commodities, such as pulses and onions, using historical data, seasonal trends, and real-time market inputs. The platform will employ advanced machine learning models, like ARIMA or LSTM, to predict price fluctuations and recommend strategic market interventions for stabilizing prices.
