@@ -1,10 +1,9 @@
 
 <img width="400%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
 <h1 align="center">Predictive Analytics for Price Stabilization of Essential Commodities</h1>
+<img align="right" alt="visual" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdqcnFiN2RtZTlvZmI0ZXZmeHU5aDlpNGY2YmIzdXBsYjUyNG5iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif">
 
-<kbd> <br> KeyBinding Button <br> </kbd>
-
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdqcnFiN2RtZTlvZmI0ZXZmeHU5aDlpNGY2YmIzdXBsYjUyNG5iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif)
+Click on the below tap icon to access the whole google collab code...
 
 <p align="left">  <a href="https://colab.research.google.com/github/amsayandeep/Predictive-Analytics-for-Price-Stabilization-of-Essential-Commodities/blob/main/SHORE_FEST_HACKATHON(ML).ipynb" target="blank">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs0aG93c2RlYjlqM3d0MHZsbHozdXcxbHB3aWlxN3JqMzV0bXMyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PP3IoEjYXLz70bFVIN/giphy.gif" height="80" width="70" href="https://shore.gitam.edu/" alt="Clickable Image">
